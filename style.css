@@ -1,0 +1,23 @@
+.redtext{
+    color: rgb(250, 2, 2);
+}
+#tagline{
+    font-size: 40px;
+    font-family: Papyrus;
+    color: rgb(203, 13, 13);
+}
+
+.fullbg{
+    background-color: rgb(15, 2, 2);
+}
+.bike-designs{
+    height: 400px;
+    width: 400px;
+}
+.modi{
+    text-align: center;
+    font-size: 35px;
+    font-family: cursive;
+    color: olive;
+    
+}
